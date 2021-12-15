@@ -1,4 +1,2 @@
-# Adevnt_of_code
-
-
-
+# advent
+Advent of Code!
